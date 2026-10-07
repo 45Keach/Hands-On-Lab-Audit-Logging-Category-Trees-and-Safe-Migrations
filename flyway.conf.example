@@ -1,0 +1,4 @@
+flyway.url=jdbc:postgresql://localhost/bootcamp
+flyway.user=postgres
+flyway.password=<set-locally>
+flyway.locations=filesystem:./migrations
