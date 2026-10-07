@@ -1,0 +1,4 @@
+flyway.conf
+.env
+*.log
+.DS_Store
